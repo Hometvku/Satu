@@ -580,61 +580,24 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/201.m3u8
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/202.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" tvg-logo="" group-title="HMTV (not ott)",DAZN ELEVEN 4
-
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/203.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="" group-title="HMTV (not ott)",SONY TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTHTTP:1.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/209.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="" group-title="HMTV (not ott)",SONY TEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTHTTP:1.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/210.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="" group-title="HMTV (not ott)",SONY TEN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTHTTP:1.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/211.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 1" tvg-logo="" group-title="HMTV (not ott)",SPORTTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTHTTP:1.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/212.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="" group-title="HMTV (not ott)",SPORTTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTHTTP:1.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/213.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="" group-title="HMTV (not ott)",SPORTTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTHTTP:1.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/214.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX 502" tvg-logo="" group-title="HMTV (not ott)",FOX 502
