@@ -1,4 +1,28 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7373146
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV STADIA" tvg-logo="" group-title="HOME TV (NO OTT)",SPOTV STADIA
+https://raw.githubusercontent.com/ghozitv/Playlist/main/EURO2024.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="HOME TV (not ott)",INDOSIAR Lokal
+https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar%20lokal
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="HOME TV (not ott)",INDOSIAR
+https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="HOME TV (not ott)",SCTV Lokal
+https://raw.githubusercontent.com/ghozitv/Playlist/main/SCTV%20Lokal
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="HOME TV (not ott)",SCTV
+https://raw.githubusercontent.com/ghozitv/Playlist/main/SCTV
+#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="" group-title="HOME TV (not ott)",MOJI
+https://raw.githubusercontent.com/ghozitv/Playlist/main/Moji
+#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="" group-title="HOME TV (not ott)",PRO LIGA
+https://raw.githubusercontent.com/ghozitv/Playlist/main/MOJI%202
+#EXTINF:-1 tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="" group-title="HOME TV (not ott)",JOWO CHANNEL
+https://raw.githubusercontent.com/ghozitv/Playlist/main/JOWO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="HOME TV (not ott)",HBO
+https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="" group-title="HOME TV (not ott)",HBO HITS
+https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO%20HITS
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="" group-title="HOME TV (not ott)",HBO SIGNATURE
+https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO%20SIGNATURE
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="HOME TV (not ott)",HBO FAMILY
+https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO%20FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="HOME TV (not ott)",CINEMAX
+https://raw.githubusercontent.com/ghozitv/Playlist/main/CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="HOME TV (not ott)",WARNER TV
+https://raw.githubusercontent.com/ghozitv/Playlist/main/WBTV
