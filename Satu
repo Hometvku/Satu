@@ -1,28 +1,55 @@
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV STADIA" tvg-logo="" group-title="HOME TV (NO OTT)",SPOTV STADIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/EURO2024.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="HOME TV (not ott)",INDOSIAR Lokal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar%20lokal
+
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="HOME TV (not ott)",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar
+
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="HOME TV (not ott)",SCTV Lokal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/SCTV%20Lokal
+
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="HOME TV (not ott)",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/SCTV
+
 #EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="" group-title="HOME TV (not ott)",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/Moji
+
 #EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="" group-title="HOME TV (not ott)",PRO LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/MOJI%202
+
 #EXTINF:-1 tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="" group-title="HOME TV (not ott)",JOWO CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/JOWO
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="HOME TV (not ott)",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="" group-title="HOME TV (not ott)",HBO HITS
-https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO%20HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
+https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO%20HIT
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="" group-title="HOME TV (not ott)",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO%20SIGNATURE
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="HOME TV (not ott)",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/HBO%20FAMILY
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="HOME TV (not ott)",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/CINEMAX
+
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="HOME TV (not ott)",WARNER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/WBTV
