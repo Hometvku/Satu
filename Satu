@@ -53,3 +53,15 @@ https://raw.githubusercontent.com/ghozitv/Playlist/main/CINEMAX
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="HOME TV (not ott)",WARNER TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 https://raw.githubusercontent.com/ghozitv/Playlist/main/WBTV
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 3" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HOME TV (not ott)",EURO 2024 - 3 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235.m3u8
+
+
